@@ -8,8 +8,7 @@ having the maximum brightness, the image was then classified as having red, yell
 
 ## **Result:** ##
 
-I could achieve 99% accuracy in the test data. Also, I did not classify even one red light as green, which would prove disastrous in
-real life scenario.
+I could achieve 99% accuracy in the test data. Also, I did not classify even one red light as green becuase otherwise it would prove disastrous in real life scenario.
 
 ## Files used in the project:
 
